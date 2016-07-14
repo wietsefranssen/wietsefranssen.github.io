@@ -44,7 +44,7 @@ docs:
       - title: "Literature"
         url: /docs/layouts/
 
-- title: Related projects
+  - title: Related projects
     children:
       - title: "RVIC"
         url: /docs/configuration/
