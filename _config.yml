@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en"
 title                    : "Projects"
-title_separator          : "|"
+title_separator          : "-"
 name                     : &site_author "Wietse Franssen"
 description              : "A website containting projects of Wietse Franssen"
 url                      : "https://wietsefranssen.github.io"
