@@ -16,9 +16,7 @@ main:
 docs:
   - title: Getting Started
     children:
-      - title: "Test about"
-        url: /about/
-      - title: "VIC"
+      - title: "About VIC"
         url: /VIC/
       - title: "Structure"
         url: /docs/structure/
@@ -26,16 +24,39 @@ docs:
         url: /docs/installation/
       - title: "Upgrading"
         url: /docs/upgrading/
+      - title: "Preprocessing"
+        url: /docs/upgrading/
+      - title: "Running"
+        url: /docs/upgrading/
+      - title: "Postprocessing"
+        url: /docs/upgrading/
 
-  - title: Customization
+  - title: Extended information
     children:
-      - title: "Configuration"
+      - title: "Source code"
         url: /docs/configuration/
-      - title: "Navigation"
+      - title: "Development strategy"
         url: /docs/navigation/
-      - title: "UI Text"
+      - title: "Versions"
         url: /docs/ui-text/
       - title: "Authors"
         url: /docs/authors/
-      - title: "Layouts"
+      - title: "Literature"
+        url: /docs/layouts/
+
+- title: Related projects
+    children:
+      - title: "RVIC"
+        url: /docs/configuration/
+      - title: "tonic"
+        url: /docs/navigation/
+      - title: "Routing"
+        url: /docs/ui-text/
+      - title: "Irrigation and Dams"
+        url: /docs/authors/
+      - title: "Crops"
+        url: /docs/layouts/
+      - title: "Temperature"
+        url: /docs/layouts/
+      - title: "Dynamic Vegetation"
         url: /docs/layouts/
