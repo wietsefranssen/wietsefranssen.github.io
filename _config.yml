@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Wietse Franssen"
-title_separator          : "-"
-name                     : "Wietse Franssen"
+title                    : "Projects"
+title_separator          : "|"
+name                     : &site_author "Wietse Franssen"
 description              : "An amazing website."
 url                      : "https://wietsefranssen.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -63,7 +63,7 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : *site_author
   avatar           : "bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"
