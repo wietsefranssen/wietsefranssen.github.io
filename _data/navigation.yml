@@ -8,3 +8,31 @@ main:
 
   - title: "Other Projects"
     url: /
+
+# documentation links
+docs:
+  - title: Getting Started
+    children:
+      - title: "Test about"
+        url: /docs/about/
+      - title: "VIC"
+        url: /docs/VIC/
+      - title: "Structure"
+        url: /docs/structure/
+      - title: "Installation"
+        url: /docs/installation/
+      - title: "Upgrading"
+        url: /docs/upgrading/
+
+  - title: Customization
+    children:
+      - title: "Configuration"
+        url: /docs/configuration/
+      - title: "Navigation"
+        url: /docs/navigation/
+      - title: "UI Text"
+        url: /docs/ui-text/
+      - title: "Authors"
+        url: /docs/authors/
+      - title: "Layouts"
+        url: /docs/layouts/
