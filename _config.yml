@@ -14,7 +14,7 @@ description              : "A website containting projects of Wietse Franssen"
 url                      : "https://wietsefranssen.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
-teaser                   : "WaterCycleChanges.jpg"
+teaser                   : # "WaterCycleChanges.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
