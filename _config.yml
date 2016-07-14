@@ -10,11 +10,11 @@ locale                   : "en"
 title                    : "Projects"
 title_separator          : "|"
 name                     : &site_author "Wietse Franssen"
-description              : "An amazing website."
+description              : "A website containting projects of Wietse Franssen"
 url                      : "https://wietsefranssen.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "WaterCycleChanges.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
