@@ -7,16 +7,16 @@ main:
     url: https://github.com/wietsefranssen/VIC/archive/feature/routing_lohmann.zip
 
   - title: "Other Projects"
-    url: /pages
+    url: /pages/about
 
 # documentation links
 docs:
   - title: Getting Started
     children:
       - title: "Test about"
-        url: /docs/about/
+        url: /pages/about/
       - title: "VIC"
-        url: /docs/VIC/
+        url: /pages/VIC/
       - title: "Structure"
         url: /docs/structure/
       - title: "Installation"
