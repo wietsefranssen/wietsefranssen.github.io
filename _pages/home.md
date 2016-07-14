@@ -11,16 +11,22 @@ header:
 excerpt: 'My current projects...<br /> <small>Currently at Version 1.0</small><br /><br />'
 feature_row:
   - image_path: VIC_grid_cell_schematic.gif
-    alt: "customizable"
-    title: "Super Customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    alt: "VIC5.0"
+    title: "VIC version 5.0"
+    excerpt: "Download, install and run the new VIC v5.0 in image domain mode."
+    url: "/docs/VIC/"
     btn_label: "Learn More"
   - image_path: LohmannRouting.jpg
-    alt: "fully responsive"
-    title: "Responsive Layouts"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    alt: "VIC5.0 incl Routing"
+    title: "VIC version 5.0 incl Routing"
+    excerpt: "Download, install and run the new VIC v5.0 in image domain mode with rouing enabled."
+    url: "/docs/VIC/"
+    btn_label: "Learn More"
+  - image_path: futureClimate.jpg
+    alt: "VIC5.0 future"
+    title: "VIC version 5.0 in the near future"
+    excerpt: "Ideas about wat we want with VIC in the near future. Extensions, features, experiments and projects."
+    url: "/docs/VIC/"
     btn_label: "Learn More"
 ---
 
