@@ -1,7 +1,10 @@
 # main links links
 main:
-  - title: "Sample Navigation Link"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
+  - title: "VIC on github"
+    url: https://wietsefranssen.github.io/VIC/
 
-  - title: "Sample Navigation Link 2"
+  - title: "Download VIC"
+    url: https://github.com/wietsefranssen/VIC/archive/feature/routing_lohmann.zip
+
+  - title: "Other Projects"
     url: /
