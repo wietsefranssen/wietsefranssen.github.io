@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "VIC on github"
-    url: https://wietsefranssen.github.io/VIC/
+    url: https://github.com/wietsefranssen/VIC/tree/feature/routing_lohmann
 
   - title: "Download VIC"
     url: https://github.com/wietsefranssen/VIC/archive/feature/routing_lohmann.zip
