@@ -31,6 +31,19 @@ docs:
       - title: "Postprocessing"
         url: /docs/upgrading/
 
+  - title: Developments
+    children:
+      - title: "Routing"
+        url: /docs/ui-text/
+      - title: "Irrigation and Dams"
+        url: /docs/authors/
+      - title: "Crops"
+        url: /docs/layouts/
+      - title: "Temperature"
+        url: /docs/layouts/
+      - title: "Dynamic Vegetation"
+        url: /docs/layouts/
+
   - title: Extended information
     children:
       - title: "Source code"
@@ -50,13 +63,4 @@ docs:
         url: /docs/configuration/
       - title: "tonic"
         url: /docs/navigation/
-      - title: "Routing"
-        url: /docs/ui-text/
-      - title: "Irrigation and Dams"
-        url: /docs/authors/
-      - title: "Crops"
-        url: /docs/layouts/
-      - title: "Temperature"
-        url: /docs/layouts/
-      - title: "Dynamic Vegetation"
-        url: /docs/layouts/
+
